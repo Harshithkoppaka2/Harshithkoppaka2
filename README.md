@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Harshithkoppaka2
 - 👀 I’m interested in .. java
-- 🌱 I’m currently learning ...java and dsa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... harshith.koppaka.2@gmail.com
 - 😄 Pronouns: ...
